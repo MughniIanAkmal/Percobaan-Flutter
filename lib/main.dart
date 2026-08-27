@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Klik Bang',
+        tooltip: 'Klik cuy',
         child: const Icon(Icons.add),
       ),
     );
