@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo Percobaan',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text('Di Click Totalnya Segini Bang:'),
+            const Text('Di Click Cuy:'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
