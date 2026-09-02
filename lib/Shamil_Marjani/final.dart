@@ -1,8 +1,9 @@
 void main() {
   
   var name = "Shamil";
-  final String surname = "Marjani";
+  final surname = "Marjani";
 
-  var fullName = name + surname;
-  print(fullName);
+  var fullname = name + " " + surname;
+
+  print(fullname);
 }
